@@ -18,9 +18,9 @@ body,html{
 }
 #scene{
     position: absolute;
-    right: 40%;
-    bottom: -30%;
-    width: 100%;
+    right: 10%;
+    bottom: 90%;
+    width: 150%;
     z-index: 0;
 }
 
