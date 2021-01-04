@@ -18,8 +18,8 @@ body,html{
 }
 #scene{
     position: absolute;
-    right: 30%;
-    bottom: -30%;
+    right: 10%;
+    bottom: -15%;
     width: 100%;
     z-index: 0;
 }

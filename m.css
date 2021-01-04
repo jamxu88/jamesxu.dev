@@ -16,11 +16,11 @@ body,html{
     transform: translate(-50%, -50%);
     z-index: 2;
 }
-#scene {
+#scene{
   position: absolute;
-  right: -70%;
+  right: 10%;
   bottom: -30%;
-  width: 200%;
+  width: 150%;
   z-index: 0;
 }
 
