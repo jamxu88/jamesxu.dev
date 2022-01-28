@@ -22,6 +22,13 @@ body,html{
   text-align: right;
   font-size: 4vh;
 }
+.left-align-m {
+  margin-top: 18vh;
+  align-items: center;
+  justify-items: start;
+  font-size: 2vh;
+  z-index: inherit;
+}
 .left-align {
   margin-top: 25vh;
   align-items: center;
