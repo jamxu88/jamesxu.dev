@@ -39,6 +39,10 @@ body,html{
   background-color: #000000cb;
   z-index: 0;
 }
+.bgfade-m {
+  background-color: #000000;
+  z-index: 0;
+}
 
 .main {
   display: grid;
@@ -61,7 +65,7 @@ body,html{
     position: absolute;
     right: 10%;
     bottom: -15%;
-    width: 100%;
+    width: 100vw;
     z-index: -3;
 }
 
@@ -163,6 +167,8 @@ transform: scale(1.2);
 	left: 0;
 	right: 0;
   bottom: 0;
+  width: 100vw; 
+  height: 100vh;
   z-index: 1;
 }
 br {
